@@ -1,3 +1,5 @@
+**Version 1 (superseded).** This is the original README, kept for reference. Version 2 is in the main README one folder up.
+
 # ETF Rotation Backtest
 
 A rule-based ETF rotation strategy, backtested on QuantConnect (LEAN) from 1 March 2010 to 10 July 2026.
